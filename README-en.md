@@ -20,6 +20,11 @@ English | [简体中文](README.md) | [日本語](README-ja.md) | [Releases](htt
 
 ## Screenshots 🖥️
 
+### Enova Windows installation
+
+For this fork's local setup, launch commands, provider requirements and secrets
+handling, see [Windows local setup](docs/windows-local-setup.md).
+
 <h4 align="center">WebUI</h4>
 
 ![](docs/webui-en.jpg)
